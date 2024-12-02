@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 👋 Hi, I’m André Mazzei!<br>- 👀 I’m fascinated by exploring how things work—from technology to life’s complex systems.<br>- 🌱 Currently, I’m diving into Django and AWS.<br>- 💞️ I’m passionate about contributing to open-source projects, learning from the community, and sharing my knowledge along the way.<br>- 📫 Feel free to reach out to me at info@andremazzei.com—I’d love to connect!<br>- ⚡ Fun fact: Despite being a former skydiver, I have a surprising fear of heights—talk about irony!
+<br>- 👋 Hi, I’m André Mazzei!<br>- 👀 I’m fascinated by exploring how things work—from technology to life’s complex systems.<br>- 🌱 Currently, I’m diving into Django and AWS.<br>- 🤝 I want to contribute to open-source projects, learning from the community, and sharing my knowledge along the way.<br>- 📫 Feel free to reach out to me at info@andremazzei.com—I’d love to connect!<br>- ⚡ Fun fact: Despite being a former skydiver, I have a surprising fear of heights—talk about irony!
 
 
 ## 🌐 Socials:
