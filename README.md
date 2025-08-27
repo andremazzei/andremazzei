@@ -35,8 +35,4 @@
 &nbsp;&nbsp;
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=flat&logo=tableau&logoColor=fff)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=andremazzei&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
