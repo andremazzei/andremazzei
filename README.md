@@ -36,14 +36,6 @@
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=flat&logo=tableau&logoColor=fff)
 
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=andremazzei&theme=dark&hide_border=true)<br/>
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=andremazzei&icon=0&color=0)](https://visitcount.itsvg.in)
 
